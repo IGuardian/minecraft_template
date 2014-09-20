@@ -1,0 +1,54 @@
+/* Main CSS file. */
+
+body {
+ margin:0px;
+ padding:0px;
+ background-color:black;
+ background-image:url('../style_images/background_main.png');
+ color:white;
+ font-weight:bold;
+}
+
+#header {
+ margin:0px;
+ padding:0px;
+ width:100%;
+ height:200px;
+ background-color:#a3cfff;
+ background-image:url('../style_images/background_header.png');
+}
+
+#nav {
+ margin:0px;
+ padding:0px;
+ width:100%;
+ height:48px;
+ background-color:#a3cfff;
+ background-image:url('../style_images/background_nav.png');
+}
+
+#content {
+ margin:0px;
+ padding:0%;
+ padding-left:10%;
+ width:90%;
+ min-height:500px;
+}
+
+#footer {
+ margin:0px;
+ padding:0px;
+ padding-top:20px;
+ text-align:right;
+ width:100%;
+ height:28px;
+ background-image:url('../style_images/background_footer.png');
+}
+
+a, a:active, a:visited {
+ color:white;
+}
+
+a:hover {
+ color:#12e0e8;
+}

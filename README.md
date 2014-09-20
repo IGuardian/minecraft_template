@@ -1,4 +1,5 @@
-minecraft_template
-==================
+# Internet Guardians Community: Minecraft Template.
 
-A Simple template that is inspired by Minecraft.
+## Purpose
+* A simple website template for people to use.
+* Demo at http://minecraft.iguardians.co.uk
