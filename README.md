@@ -10,11 +10,11 @@
 * Server must support php
 
 ## Installation (Quick Start Guide)
-* Navigate to /minecraft_template/content
+* Navigate to /minecraft_template/upload/content
 * Edit content_about_us.php, content_contact.php, content_footer.php, content_home.php as desired.
-* Navigate to /minecraft_template/images
+* Navigate to /minecraft_template/upload/images
 * Replace the Banner.png with your own (550x180 pixels) (Keep same name)
 * Replace the favicon.ico with your own logo (Keep same name)
-* Upload everything inside the minecraft_template folder to your webserver.
+* Upload everything inside the minecraft_template/upload/ folder to your webserver.
 
 We hope you find this useful.
