@@ -1,4 +1,4 @@
-## Minecraft Template
+## Minecraft Template v2
 
 ## About
 * A simple website template written in html5, css and php for people to make a website with.
