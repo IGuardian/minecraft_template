@@ -56,7 +56,7 @@
            echo ' | ';
            echo '<del>Home</del>';
            echo ' | ';
-           echo '<a href="index.php?page=contact" target="_self">About Us</a>';
+           echo '<a href="index.php?page=about_us" target="_self">About Us</a>';
            echo ' | ';
            echo '<a href="index.php?page=contact" target="_self">Contact</a>';
            echo ' | ';
