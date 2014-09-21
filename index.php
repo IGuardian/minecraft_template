@@ -23,12 +23,12 @@
         <!-- Meta: End -->
         <!-- Style: Start -->
         <link rel="stylesheet" href="./stylesheets/main.css">
-        <link rel="shortcut icon" href="./style_images/favicon.ico">   
+        <link rel="shortcut icon" href="./images/favicon.ico">   
         <!-- Style: End -->
   </head>
   <body>
         <div id="header">
-           <img align="left" src="./style_images/Banner.png" alt="Banner">
+           <img align="left" src="./images/Banner.png" alt="Banner">
            <img align="right" src="./style_images/background_header_sun.png">
         </div>
         <div id="nav">
